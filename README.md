@@ -43,7 +43,7 @@
 </p>
 
 <p align="left">
-  <strong>✦ Fun ✦</strong><br />
+  <strong>✦ Mental Health stack ✦</strong><br />
   <a href="https://osu.ppy.sh/users/28154524"><img width="90" src="./assets/osu.svg" alt="My osu! profile" /></a>
   <a href="https://tracker.gg/valorant/profile/riot/wwwwwwwwwwwwwwww%237272/overview?platform=pc&amp;playlist=competitive"><img width="90" src="./assets/valorant.svg" alt="My Valorant Tracker profile" /></a>
   <a href="https://garmoth.com/character/Dy1pR0o7Zp"><img width="129" src="./assets/black-desert.svg" alt="My Black Desert Online gear on Garmoth" /></a>
