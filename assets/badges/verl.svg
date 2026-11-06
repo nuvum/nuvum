@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="28" viewBox="0 -2 58 30" role="img" aria-labelledby="title">
+  <title id="title">verl</title>
+  <defs>
+    <linearGradient id="shell" x2="0" y2="1">
+      <stop stop-color="#fbfaff"/>
+      <stop offset=".47" stop-color="#eeebfc"/>
+      <stop offset="1" stop-color="#e0e5f8"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="57" height="25" rx="7" fill="url(#shell)" stroke="#acabd0"/>
+  <rect x="1.6" y="1.6" width="54.8" height="22.8" rx="5.9" fill="none" stroke="#fff" opacity=".72"/>
+  <path d="M7 2.8h44a4.4 4.4 0 0 1 4.4 4.4H2.6A4.4 4.4 0 0 1 7 2.8Z" fill="#fff" opacity=".45"/>
+  <path d="M25 6.3v13.4" stroke="#acabd0" opacity=".4"/>
+  <g transform="translate(2 1)" color="#3d548e" aria-hidden="true"><path d="m5.8 8 3.1 8 3.1-8m1.6 8 3.1-8 3.1 8" fill="none" stroke="currentColor" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="30" y="16.9" fill="#382846" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="650">verl</text>
+</svg>

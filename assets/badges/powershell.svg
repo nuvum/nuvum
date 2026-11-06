@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="28" viewBox="0 -2 96 30" role="img" aria-labelledby="title">
+  <title id="title">PowerShell</title>
+  <!-- Symbol from Simple Icons (https://github.com/simple-icons/simple-icons/blob/12.0.0/icons/powershell.svg) -->
+  <defs>
+    <linearGradient id="shell" x2="0" y2="1">
+      <stop stop-color="#fffafd"/>
+      <stop offset=".47" stop-color="#faeaf4"/>
+      <stop offset="1" stop-color="#f3dce9"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="95" height="25" rx="7" fill="url(#shell)" stroke="#c5a1bb"/>
+  <rect x="1.6" y="1.6" width="92.8" height="22.8" rx="5.9" fill="none" stroke="#fff" opacity=".72"/>
+  <path d="M7 2.8h82a4.4 4.4 0 0 1 4.4 4.4H2.6A4.4 4.4 0 0 1 7 2.8Z" fill="#fff" opacity=".43"/>
+  <path d="M25 6.3v13.4" stroke="#c5a1bb" opacity=".4"/>
+  <g transform="translate(7 6) scale(.583333)" color="#205b98" aria-hidden="true"><path d="M23.181 2.974c.568 0 .923.463.792 1.035l-3.659 15.982c-.13.572-.697 1.035-1.265 1.035H.819c-.568 0-.923-.463-.792-1.035L3.686 4.009c.13-.572.697-1.035 1.265-1.035zm-8.375 9.346c.251-.394.227-.905-.09-1.243L9.122 5.125c-.38-.404-1.037-.407-1.466-.003-.429.402-.468 1.056-.088 1.46l4.662 4.96v.11l-7.42 5.374c-.45.327-.533.977-.187 1.453.346.476.991.597 1.44.27l8.229-5.91c.28-.196.438-.365.514-.52zm-2.796 4.399a.928.928 0 00-.934.923c0 .51.418.923.934.923h4.433a.928.928 0 00.934-.923.928.928 0 00-.934-.923z" fill="currentColor"/></g>
+  <text x="30" y="16.9" fill="#382846" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="650">PowerShell</text>
+</svg>

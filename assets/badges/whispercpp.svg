@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="28" viewBox="0 -2 99 30" role="img" aria-labelledby="title">
+  <title id="title">whisper.cpp</title>
+  <!-- Custom audio symbol -->
+  <defs>
+    <linearGradient id="shell" x2="0" y2="1">
+      <stop stop-color="#fffafd"/>
+      <stop offset=".47" stop-color="#faeaf4"/>
+      <stop offset="1" stop-color="#f3dce9"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="98" height="25" rx="7" fill="url(#shell)" stroke="#c5a1bb"/>
+  <rect x="1.6" y="1.6" width="95.8" height="22.8" rx="5.9" fill="none" stroke="#fff" opacity=".72"/>
+  <path d="M7 2.8h85a4.4 4.4 0 0 1 4.4 4.4H2.6A4.4 4.4 0 0 1 7 2.8Z" fill="#fff" opacity=".43"/>
+  <path d="M25 6.3v13.4" stroke="#c5a1bb" opacity=".4"/>
+  <g transform="translate(7 6) scale(.583333)" color="#6541a9" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10v4m4-7v10m5-14v18m5-14v10m4-7v4"/></g></g>
+  <text x="30" y="16.9" fill="#382846" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="650">whisper.cpp</text>
+</svg>

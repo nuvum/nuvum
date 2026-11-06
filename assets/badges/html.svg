@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63" height="28" viewBox="0 -2 68 30" role="img" aria-labelledby="title">
+  <title id="title">HTML</title>
+  <!-- Symbol from Simple Icons (https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg) -->
+  <defs>
+    <linearGradient id="shell" x2="0" y2="1">
+      <stop stop-color="#f8fcff"/>
+      <stop offset=".47" stop-color="#e9eafa"/>
+      <stop offset="1" stop-color="#dce4f9"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="67" height="25" rx="7" fill="url(#shell)" stroke="#a5abc7"/>
+  <rect x="1.6" y="1.6" width="64.8" height="22.8" rx="5.9" fill="none" stroke="#fff" opacity=".72"/>
+  <path d="M7 2.8h54a4.4 4.4 0 0 1 4.4 4.4H2.6A4.4 4.4 0 0 1 7 2.8Z" fill="#fff" opacity=".43"/>
+  <path d="M25 6.3v13.4" stroke="#a5abc7" opacity=".4"/>
+  <g transform="translate(7 6) scale(.583333)" color="#ac4630" aria-hidden="true"><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z" fill="currentColor"/></g>
+  <text x="30" y="16.9" fill="#382846" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="650">HTML</text>
+</svg>

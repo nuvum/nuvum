@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="28" viewBox="0 -2 56 30" role="img" aria-labelledby="title">
+  <title id="title">n8n</title>
+  <!-- Symbol from Simple Icons (https://github.com/simple-icons/simple-icons/blob/develop/icons/n8n.svg) -->
+  <defs>
+    <linearGradient id="shell" x2="0" y2="1">
+      <stop stop-color="#fffafd"/>
+      <stop offset=".47" stop-color="#faeaf4"/>
+      <stop offset="1" stop-color="#f3dce9"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="55" height="25" rx="7" fill="url(#shell)" stroke="#c5a1bb"/>
+  <rect x="1.6" y="1.6" width="52.8" height="22.8" rx="5.9" fill="none" stroke="#fff" opacity=".72"/>
+  <path d="M7 2.8h42a4.4 4.4 0 0 1 4.4 4.4H2.6A4.4 4.4 0 0 1 7 2.8Z" fill="#fff" opacity=".43"/>
+  <path d="M25 6.3v13.4" stroke="#c5a1bb" opacity=".4"/>
+  <g transform="translate(7 6) scale(.583333)" color="#a63862" aria-hidden="true"><path d="M4.8 16.8c.45 0 .6-.15.6-.6V15c0-1.8.6-2.4 2.4-2.4H9c1.8 0 2.4.6 2.4 2.4v1.2c0 .45.15.6.6.6s.6-.15.6-.6V15c0-1.8.6-2.4 2.4-2.4h1.2c1.8 0 2.4.6 2.4 2.4v1.2c0 .45.15.6.6.6s.6-.15.6-.6V15c0-1.8.6-2.4 2.4-2.4h1.2c.45 0 .6-.15.6-.6s-.15-.6-.6-.6h-1.2c-1.8 0-2.4-.6-2.4-2.4V7.8c0-.45-.15-.6-.6-.6s-.6.15-.6.6V9c0 1.8-.6 2.4-2.4 2.4H15c-1.8 0-2.4-.6-2.4-2.4V7.8c0-.45-.15-.6-.6-.6s-.6.15-.6.6V9c0 1.8-.6 2.4-2.4 2.4H7.8c-1.8 0-2.4-.6-2.4-2.4V7.8c0-.45-.15-.6-.6-.6s-.6.15-.6.6V9c0 1.8-.6 2.4-2.4 2.4H.6c-.45 0-.6.15-.6.6s.15.6.6.6h1.2c1.8 0 2.4.6 2.4 2.4v1.2c0 .45.15.6.6.6" fill="currentColor"/></g>
+  <text x="30" y="16.9" fill="#382846" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="650">n8n</text>
+</svg>

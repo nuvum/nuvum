@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="28" viewBox="0 -2 59 30" role="img" aria-labelledby="title">
+  <title id="title">.NET</title>
+  <!-- Symbol from Simple Icons (https://github.com/simple-icons/simple-icons) -->
+  <defs>
+    <linearGradient id="shell" x2="0" y2="1">
+      <stop stop-color="#fffafd"/>
+      <stop offset=".47" stop-color="#faeaf4"/>
+      <stop offset="1" stop-color="#f3dce9"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="58" height="25" rx="7" fill="url(#shell)" stroke="#c5a1bb"/>
+  <rect x="1.6" y="1.6" width="55.8" height="22.8" rx="5.9" fill="none" stroke="#fff" opacity=".72"/>
+  <path d="M7 2.8h45a4.4 4.4 0 0 1 4.4 4.4H2.6A4.4 4.4 0 0 1 7 2.8Z" fill="#fff" opacity=".43"/>
+  <path d="M25 6.3v13.4" stroke="#c5a1bb" opacity=".4"/>
+  <g transform="translate(7 6) scale(.583333)" color="#583690" aria-hidden="true"><path d="M24 8.77h-2.468v7.565h-1.425V8.77h-2.462V7.53H24zm-6.852 7.565h-4.821V7.53h4.63v1.24h-3.205v2.494h2.953v1.234h-2.953v2.604h3.396zm-6.708 0H8.882L4.78 9.863a2.896 2.896 0 0 1-.258-.51h-.036c.032.189.048.592.048 1.21v5.772H3.157V7.53h1.659l3.965 6.32c.167.261.275.442.323.54h.024c-.04-.233-.06-.629-.06-1.185V7.529h1.372zm-8.703-.693a.868.829 0 0 1-.869.829.868.829 0 0 1-.868-.83.868.829 0 0 1 .868-.828.868.829 0 0 1 .869.829Z" fill="currentColor"/></g>
+  <text x="30" y="16.9" fill="#382846" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="650">.NET</text>
+</svg>

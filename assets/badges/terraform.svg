@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="28" viewBox="0 -2 90 30" role="img" aria-labelledby="title">
+  <title id="title">Terraform</title>
+  <!-- Symbol from Simple Icons (https://github.com/simple-icons/simple-icons/blob/develop/icons/terraform.svg) -->
+  <defs>
+    <linearGradient id="shell" x2="0" y2="1">
+      <stop stop-color="#f8fcff"/>
+      <stop offset=".47" stop-color="#e9eafa"/>
+      <stop offset="1" stop-color="#dce4f9"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="89" height="25" rx="7" fill="url(#shell)" stroke="#a5abc7"/>
+  <rect x="1.6" y="1.6" width="86.8" height="22.8" rx="5.9" fill="none" stroke="#fff" opacity=".72"/>
+  <path d="M7 2.8h76a4.4 4.4 0 0 1 4.4 4.4H2.6A4.4 4.4 0 0 1 7 2.8Z" fill="#fff" opacity=".43"/>
+  <path d="M25 6.3v13.4" stroke="#a5abc7" opacity=".4"/>
+  <g transform="translate(7 6) scale(.583333)" color="#52721f" aria-hidden="true"><path d="M1.44 0v7.575l6.561 3.79V3.787zm21.12 4.227l-6.561 3.791v7.574l6.56-3.787zM8.72 4.23v7.575l6.561 3.787V8.018zm0 8.405v7.575L15.28 24v-7.578z" fill="currentColor"/></g>
+  <text x="30" y="16.9" fill="#382846" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="650">Terraform</text>
+</svg>
